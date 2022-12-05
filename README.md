@@ -1,6 +1,6 @@
-#### Desafios-de-C-digo-Intermedi-rio-C---Pottencial 2/2 ###
+#### Desafios-de-Codigo-Intermediario-C#-Pottencial 2/2 ###
 
-##Desafio##
+**Desafio**
 
 A empresa ABC resolveu conceder um aumento de salários a seus funcionários de acordo com a tabela abaixo:
 
